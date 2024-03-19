@@ -239,9 +239,11 @@ public class Playing extends State implements Statemethods {
 			switch (e.getKeyCode()) {
 
 			case KeyEvent.VK_A:
+			case KeyEvent.VK_LEFT:
 				player.setLeft(true);
 				break;
-			case KeyEvent.VK_F:
+			case KeyEvent.VK_RIGHT:
+			case KeyEvent.VK_D:
 				player.setRight(true);
 				break;
 			case KeyEvent.VK_SPACE:
@@ -259,9 +261,11 @@ public class Playing extends State implements Statemethods {
 		if (!gameOver)
 			switch (e.getKeyCode()) {
 			case KeyEvent.VK_A:
+			case KeyEvent.VK_LEFT:
 				player.setLeft(false);
 				break;
-			case KeyEvent.VK_F:
+			case KeyEvent.VK_RIGHT:
+			case KeyEvent.VK_D:
 				player.setRight(false);
 				break;
 			case KeyEvent.VK_SPACE:
