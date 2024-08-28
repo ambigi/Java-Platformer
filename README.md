@@ -1,6 +1,6 @@
 INSTRUCTIONS TO RUN THE GAME
 
-clone the repo
+download Game.jar
 
 run Game.jar
 
