@@ -5,7 +5,7 @@ This is a 2D platformer developed exclusively in Java.
 
 ### Features
 - **Smooth Platforming Mechanics**:Jump, run, and navigate through the three levels.
-- **Power Attack**: Unleash powerful attacks to defeat enemies and destroy objects.
+- **Power Attack**: Unleash a powerful dash that destroys everything in it's path.
 - **Cannons**: Avoid cannons that shoot projectiles.
 - **Spikes**: Spikes cause instant death if touched.
 - **Breakable Barrels and Boxes**: Smash to reveal hidden potions or other bonuses.
@@ -22,7 +22,7 @@ Press the spacebar to jump over obstacles.
 
 **Power Attack**:
 
-Press the "Right Mouse" Button to unleash a power attack that can deal extra damage and destroy breakable objects.
+Press the "Right Mouse" Button to unleash a power attack that makes you dash forward and destroy breakable objects.
 ![PLayer destroying barrels](https://i.imgur.com/Ke6WjMS.gif)
 
 
