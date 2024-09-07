@@ -35,7 +35,7 @@ Dodging cannon fire:
 **Spikes**:
 
 Spikes are deadly traps that cause instant death upon contact. Players must avoid them at all costs.
-Player jumping over spikes:
+![Player jumping over spikes](https://i.imgur.com/eb0l9L1.gif)
 
 **Potions**:
 
