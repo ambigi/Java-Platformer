@@ -1,4 +1,4 @@
-# Java Platformer Game
+# Pirate Flag
 
 ## Overview
 This is a 2D platformer developed exclusively in Java.
