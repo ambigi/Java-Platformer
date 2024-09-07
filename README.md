@@ -18,19 +18,19 @@ This is a 2D platformer developed exclusively in Java.
 Use the arrow keys to move left and right.
 Press the spacebar to jump over obstacles.
 
-![PLayer Jumping over obstacles](https://i.imgur.com/BMmY6H9.gif)
+![Player Jumping over obstacles](https://i.imgur.com/BMmY6H9.gif)
 
 **Power Attack**:
 
 Press the "Right Mouse" Button to unleash a power attack that makes you dash forward and destroy breakable objects.
-![PLayer destroying barrels](https://i.imgur.com/Ke6WjMS.gif)
+![Player destroying barrels](https://i.imgur.com/Ke6WjMS.gif)
 
 
 **Cannons**:
 
 Cannons fire projectiles at intervals. The player must avoid them as they cannot be destroyed.
 Dodging cannon fire:
-
+![Player destroying barrels](https://i.imgur.com/gCv3q3v.gif)
 
 **Spikes**:
 
