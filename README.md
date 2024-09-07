@@ -31,7 +31,6 @@ Press the "Right Mouse" Button to unleash a power attack that makes you dash for
 **Cannons**:
 
 Cannons fire projectiles at intervals. The player must avoid them as they cannot be destroyed.
-Dodging cannon fire:
 ![Player destroying barrels](https://i.imgur.com/gCv3q3v.gif)
 
 **Spikes**:
