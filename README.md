@@ -53,7 +53,7 @@ Potions can be found throughout levels or hidden in breakable objects. They rest
 
 2. Run the JAR file:
     ```bash
-    java -jar java-platformer-game.jar
+    java -jar game.jar
     ```
 
 ## Controls
