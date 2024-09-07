@@ -40,7 +40,8 @@ Spikes are deadly traps that cause instant death upon contact. Players must avoi
 **Potions**:
 
 Potions can be found throughout levels or hidden in breakable objects. They restore health when collected.
-Collecting a potion from a broken object:
+![Player consuming potions](https://i.imgur.com/XVHvnwz.gif)
+
 
 ---
 
