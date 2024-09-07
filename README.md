@@ -15,7 +15,7 @@ This is a 2D platformer developed exclusively in Java.
 
 ### Game Mechanics
 **Movement**:
-Use the arrow keys to move left and right.
+Use the A and D keys to move left and right.
 Press the spacebar to jump over obstacles.
 
 ![Player Jumping over obstacles](https://i.imgur.com/BMmY6H9.gif)
@@ -57,6 +57,8 @@ Potions can be found throughout levels or hidden in breakable objects. They rest
     ```
 
 ## Controls
-- **Arrow Keys**: Move Left/Right
+- **A**: Move Left
+- **D**: Move Right
 - **Spacebar**: Jump
 - **Right Mouse Button**: Power Attack
+- **ESC**:Pause Menu
