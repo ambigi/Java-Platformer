@@ -22,7 +22,7 @@ Press the spacebar to jump over obstacles.
 
 **Power Attack**:
 
-Press the "Right Mouse" Button to unleash a power attack that makes you dash forward and destroy breakable objects.\
+Press the "Right Mouse" Button to unleash a power attack that makes you dash forward and destroy breakable objects.
 
 
 ![Player destroying barrels](https://i.imgur.com/Ke6WjMS.gif)
