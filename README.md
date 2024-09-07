@@ -11,48 +11,27 @@ Enemies: Encounter various enemies that challenge your platforming skills. Defea
 Breakable Barrels and Boxes: Smash barrels and boxes to reveal hidden potions or other bonuses.
 Health Potions: Potions can be found throughout levels (sometimes in breakable objects) and help restore health.
 Game Mechanics
-Movement:
-
+Movement
 Use the arrow keys to move left and right.
 Press the spacebar to jump over obstacles.
-Example of player jumping over obstacles in-game:
 
-
-Power Attack:
-
+Power Attack
 Press the "A" key to unleash a power attack that can deal extra damage and destroy breakable objects.
-Power attack being used to break a barrel:
 
-
-Cannons:
-
+Cannons
 Cannons fire projectiles at intervals. The player must avoid them as they cannot be destroyed.
-Dodging cannon fire:
 
-
-Spikes:
-
+Spikes
 Spikes are deadly traps that cause instant death upon contact. Players must avoid them at all costs.
-Player jumping over spikes:
 
-
-Enemies:
-
+Enemies
 Various enemies appear throughout the levels, each with different behaviors and attacks. Use your power attack or navigate carefully to deal with them.
-Encountering and defeating enemies:
 
-
-Breakable Objects:
-
+Breakable Objects
 Break barrels and boxes using the power attack to uncover hidden potions or other items.
-Breaking a box to reveal potions:
 
-
-Potions:
-
+Potions
 Potions can be found throughout levels or hidden in breakable objects. They restore health when collected.
-Collecting a potion from a broken object:
-
 
 Installation
 Clone the repository:
@@ -73,4 +52,8 @@ Controls
 Arrow Keys: Move Left/Right
 Spacebar: Jump
 A: Power Attack
-![Player using a power attack](https://i.imgur.com/BMmY6H9.gif)
+Contributions
+Contributions are welcome! Feel free to fork the project, make improvements, and submit a pull request. You can also open issues for suggestions or bug reports.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
