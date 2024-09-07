@@ -8,7 +8,7 @@ This is a 2D platformer developed exclusively in Java.
 - **Power Attack**: Unleash powerful attacks to defeat enemies and destroy objects.
 - **Cannons**: Avoid cannons that shoot projectiles.
 - **Spikes**: Spikes cause instant death if touched.
-- **Breakable Barrels**: Smash to reveal hidden potions or other bonuses.
+- **Breakable Barrels and Boxes**: Smash to reveal hidden potions or other bonuses.
 - **Health Potions**: Found throughout levels or in breakable objects to restore health.
 
 ---
@@ -24,6 +24,7 @@ Press the spacebar to jump over obstacles.
 
 Press the "Right Mouse" Button to unleash a power attack that can deal extra damage and destroy breakable objects.
 Power attack being used to break a barrel:
+![PLayer destroying barrels](https://i.imgur.com/Ke6WjMS.gif)
 
 
 **Cannons**:
