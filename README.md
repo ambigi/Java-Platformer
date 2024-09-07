@@ -22,7 +22,7 @@ Example of player jumping over obstacles in-game:
 
 **Power Attack**:
 
-Press the "A" key to unleash a power attack that can deal extra damage and destroy breakable objects.
+Press the "Right Mouse" Button to unleash a power attack that can deal extra damage and destroy breakable objects.
 Power attack being used to break a barrel:
 
 
@@ -69,4 +69,4 @@ Collecting a potion from a broken object:
 ## Controls
 - **Arrow Keys**: Move Left/Right
 - **Spacebar**: Jump
-- **A**: Power Attack
+- **Right Mouse Button**: Power Attack
