@@ -17,8 +17,8 @@ This is a 2D platformer developed exclusively in Java.
 **Movement**:
 Use the arrow keys to move left and right.
 Press the spacebar to jump over obstacles.
-Example of player jumping over obstacles in-game:
 
+![PLayer Jumping over obstacles](https://i.imgur.com/BMmY6H9.gif)
 
 **Power Attack**:
 
@@ -54,6 +54,8 @@ Breaking a box to reveal potions:
 
 Potions can be found throughout levels or hidden in breakable objects. They restore health when collected.
 Collecting a potion from a broken object:
+
+---
 
 ## Installation
 1. Clone the repository:
