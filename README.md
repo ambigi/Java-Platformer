@@ -50,7 +50,7 @@ Potions can be found throughout levels or hidden in breakable objects. They rest
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/java-platformer-game.git
+    git clone https://github.com/ambigi/Java-platformer
     ```
 
 2. Run the JAR file:
