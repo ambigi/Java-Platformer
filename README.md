@@ -37,19 +37,6 @@ Dodging cannon fire:
 Spikes are deadly traps that cause instant death upon contact. Players must avoid them at all costs.
 Player jumping over spikes:
 
-
-**Enemies**:
-
-Various enemies appear throughout the levels, each with different behaviors and attacks. Use your power attack or navigate carefully to deal with them.
-Encountering and defeating enemies:
-
-
-**Breakable Barrels**:
-
-Break barrels and boxes using the power attack to uncover hidden potions or other items.
-Breaking a box to reveal potions:
-
-
 **Potions**:
 
 Potions can be found throughout levels or hidden in breakable objects. They restore health when collected.
