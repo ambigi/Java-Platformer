@@ -23,7 +23,6 @@ Press the spacebar to jump over obstacles.
 **Power Attack**:
 
 Press the "Right Mouse" Button to unleash a power attack that can deal extra damage and destroy breakable objects.
-Power attack being used to break a barrel:
 ![PLayer destroying barrels](https://i.imgur.com/Ke6WjMS.gif)
 
 
